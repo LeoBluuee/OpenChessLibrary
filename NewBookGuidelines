@@ -1,0 +1,16 @@
+New book commit guideline:
+
+Before making a book commit, check if the same edition is not already on the website.
+If not, proceed to make a commit on this repository, to the language folder, with the following informations of the book (this must be in english, even if the book is not):
+
+Title: (Full title of the book)
+Author(s): (Full name of all the authors of the book)
+Edition: (Which edition of the book)
+Publishing Year: (Exact year when this edition was originally published)
+Original Language: (Original language of the material, in case is translated)
+Edition Language: (Which language is this edition written)
+Typed/Scanned: (One or the other. It's possible to copy the text or is it a scanned image?)
+TAGs: (This helps with database organization and user searches. More than one can be applied. Tags can be: General, Biography, Opening, Endgame, Tactics, Strategy, Chess Hitory, Puzzles, Periodical) 
+Links: (Links to the book, from as many sources as possible)
+
+There's a week period where your commit will be reviewed by the community to, specially, avoid any licencing issue. 
