@@ -21,7 +21,7 @@ Books are taken from websites like:
 This repository is organized as follows:
 
 For each language that we (OCL) have a book in, a new folder will be created here and the books in that particular language stored in the corresponding folder.
-Each of these folders will have a "readme" JSON file cataloging all the books in that specific language in alphabetical order.
+Each of these folders will have a "readme" and a JSON file cataloging all the books in that specific language in alphabetical order.
 
 There's a folder containing all the rules, etiquette and guidelines of OCL, like how to add new books, start a OCR or translation iniciative, properly seed files for users download, etc.
 More information on the "readme" file of the "Rules, Etiquette and Guidelines" folder.
