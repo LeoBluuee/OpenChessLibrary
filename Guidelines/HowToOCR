@@ -1,0 +1,16 @@
+How to OCR a scanned book
+
+There's a lot of free software out there that can OCR images to produce text. 
+This procedure helps make an old book more readable and facilitates process like translation and updating notations. 
+
+What's OCR?
+
+Optical Character Recognition is a technology able to recognize characters in a image (handwritten, scanned, etc). This way, is possible to obtain a editable text file from the images.
+
+How to OCR?
+
+The fast way is using Google Drive. You simply upload the book's PDF file and after is done you click in it with the mouse's right button and select "Open With Google Docs".
+That will open a editable text, but possibly with many mistakes (casing, font and typos, mostly). Images (like chess boards) will not be exported to this new file. 
+The next step is to correct all the text. 
+
+Google Docs and similar Office suites have spelling and grammar checks that helps a lot.
