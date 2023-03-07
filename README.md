@@ -27,10 +27,9 @@ We hope you find this list useful and appreciate your help in keeping it up to d
 
 This repository is organized as follows:
 
-For each language that we (OCL) have a book in, a new folder will be created here and the books in that particular language stored in the corresponding folder.
-Each of these folders will have a "readme" and a JSON file cataloging all the books in that specific language in alphabetical order.
+For each language that we have a book in, a new folder will be created in this repository. Each of these folders will have a "readme" file cataloging all the books in that specific language in alphabetical order, organized by categories.
 
-There's a folder containing all the rules, etiquette and guidelines of OCL, like how to add new books, start a OCR or translation iniciative, properly seed files for users download, etc.
+There's a folder containing all the rules, etiquette and guidelines of the Open Chess Library, like how to add new books, start a OCR or translation iniciative, etc.
 More information on the "readme" file of the ["Guidelines"](https://github.com/LeoBluuee/OpenChessLibrary/tree/main/Guidelines) folder.
 
 While this project should work fine as a repository only, similar to the format of "Awesome Lists", the plan is to build a full website with a better UI for end users.
