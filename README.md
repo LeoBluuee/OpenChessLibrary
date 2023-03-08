@@ -24,6 +24,7 @@ Books are linked from websites like:
 We hope you find this list useful and appreciate your help in keeping it up to date and comprehensive. Thank you for your interest!
 
 To understand more on how this repository works, go to [Guidelines](https://github.com/LeoBluuee/OpenChessLibrary/tree/main/Guidelines)
+
 -------------------------------------------------------------------
 ## TO DO 
 
