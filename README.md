@@ -23,20 +23,11 @@ Books are linked from websites like:
 
 We hope you find this list useful and appreciate your help in keeping it up to date and comprehensive. Thank you for your interest!
 
+To understand more on how this repository works, go to [Guidelines](https://github.com/LeoBluuee/OpenChessLibrary/tree/main/Guidelines)
 -------------------------------------------------------------------
-
-This repository is organized as follows:
-
-For each language that we have a book in, a new folder will be created in this repository. Each of these folders will have a "readme" file cataloging all the books in that specific language in alphabetical order, organized by categories.
-
-There's a folder containing all the rules, etiquette and guidelines of the Open Chess Library, like how to add new books, start a OCR or translation iniciative, etc.
-More information on the "readme" file of the ["Guidelines"](https://github.com/LeoBluuee/OpenChessLibrary/tree/main/Guidelines) folder.
-
-While this project should work fine as a repository only, similar to the format of "Awesome Lists", the plan is to build a full website with a better UI for end users.
-There's a folder for all the website code and files called ["Website"](https://github.com/LeoBluuee/OpenChessLibrary/tree/main/Website).
-
----------------------------------------------------------------------
 ## TO DO 
 
 - Todos os livros Gutenberg (Usar planilha, filtrar subject chess, depois ctrl-f "chess");
+- Todos os livros Archive.org;
+- Todos os livros Google Books;
 
