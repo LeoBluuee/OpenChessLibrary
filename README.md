@@ -13,6 +13,7 @@ Books are linked from websites like:
     - [Google Books](https://books.google.com/)
     - Amazon Books
     - [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)
+    - [Wikibooks](https://www.wikibooks.org/)
 
 - Proceed to make a commit on the target language file, with the following informations of the book:
 
@@ -31,4 +32,5 @@ To understand more on how this repository works, go to [Guidelines](https://gith
 - Todos os livros Gutenberg (Usar planilha, filtrar subject chess, depois ctrl-f "chess");
 - Todos os livros Archive.org;
 - Todos os livros Google Books;
+- Todos os livros Wikibooks; 
 
